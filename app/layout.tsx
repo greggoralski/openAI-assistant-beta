@@ -10,7 +10,7 @@ export const metadata = {
   title: "AI Assistant",
   description:
     "OpenAI Assistant",
-    metadataBase: 'https://mydomain.com'
+    metadataBase: 'https://learnwithai.ca'
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
